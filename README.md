@@ -57,16 +57,6 @@ A professional GUI application for converting multiple images to PDF with flexib
 - Real-time progress tracking
 - Background processing
 
-#### 📚 [Manga OlympusStaff GUI](https://github.com/el-zazo/python--manga-olympustaff-gui)
-
-A desktop application for downloading manga from OlympusStaff with a user-friendly interface, chapter selection, and download management.
-
-- Manga search and browsing
-- Chapter selection
-- Batch downloading
-- Progress tracking
-- Image optimization
-
 ### Browser Extensions
 
 #### 🎬 [Media Downloader Professional](https://github.com/el-zazo/extension--media-downloader-professional)
