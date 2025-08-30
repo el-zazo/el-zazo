@@ -10,118 +10,25 @@
 
 ## 🧠 About Me
 
-Passionate Full-Stack Developer specializing in JavaScript/TypeScript and Python development. I create scalable web applications, browser extensions, and utility packages with a focus on clean code and user experience. My expertise spans from building intuitive front-end interfaces with React and Next.js to developing robust back-end systems and APIs. I'm committed to continuous learning and expanding my technical knowledge across various domains.
+Passionate Full-Stack Developer specializing in JavaScript/TypeScript and Python development. I create scalable web applications, browser extensions, and utility packages with a focus on clean code and modern architecture.
 
 - 🚀 **Languages & Core**: JavaScript, TypeScript, Python, Node.js
 - 🌐 **Frontend**: React, Next.js, Tailwind CSS
 - 🔙 **Backend**: Express.js, MongoDB, MySQL, Supabase
 - 🔐 **Security**: Authentication, Role-Based Access Control, Rate Limiting
-- 📦 **Creator**: Multiple open-source NPM packages
+- 📦 **Creator**: Open-source NPM packages
 - 🧩 **Architecture**: Modular design, API-first approach, microservices
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Projects
 
-### Web Applications
+This repository contains my latest work and evolving experiments.  
+**Project content is subject to change as I iterate and explore new ideas.**  
+For a complete, up-to-date overview of my work, please visit:
 
-#### 🛒 [Zazo Gaming Shop](https://github.com/el-zazo/webapp--zazo-gaming-shop)
-
-An e-commerce platform for gaming products with user authentication, product management, shopping cart functionality, and secure checkout process.
-
-- User authentication
-- Product catalog
-- Shopping cart
-- Secure payment processing
-- Order history
-
-#### 🥘 [PantryPal Monthly](https://github.com/el-zazo/webapp--pantrypal-monthly)
-
-A web application designed to help users manage their monthly grocery shopping lists with AI-powered suggestions based on past shopping patterns.
-
-- AI-powered grocery suggestions
-- Monthly list management
-- Categorized inventory
-- Export to CSV
-- History tracking
-
-### Python Applications
-
-#### 📄 [Images to PDF Converter](https://github.com/el-zazo/python--images-to-pdf)
-
-A professional GUI application for converting multiple images to PDF with flexible settings and real-time progress tracking.
-
-- Drag and drop interface
-- Image reordering
-- Flexible PDF settings
-- Real-time progress tracking
-- Background processing
-
-### Browser Extensions
-
-#### 🎬 [Media Downloader Professional](https://github.com/el-zazo/extension--media-downloader-professional)
-
-A browser extension for detecting, downloading, and managing media from any webpage with a sleek, professional interface.
-
-- Automatic media detection
-- One-click downloads
-- Media library
-- Format conversion
-- Draggable interface
-
-#### 📊 [Tab Counter and Info](https://github.com/el-zazo/extension--tab-counter-and-info)
-
-A lightweight browser extension that provides detailed information about open tabs and browser resource usage.
-
-- Tab counting and statistics
-- Memory usage monitoring
-- Tab organization tools
-- Performance insights
-- Custom alerts
-
----
-
-## 📦 NPM Packages
-
-### 🎬 Media & Content
-
-#### [`@el-zazo/youtube-scraping`](https://github.com/el-zazo/npm-package--youtube-scraping)
-
-A powerful scraping utility for extracting data from YouTube, including video details, channel information, and comments.
-
-### 🛠️ Developer Utilities
-
-#### [`@el-zazo/server-creator`](https://github.com/el-zazo/npm-package--server-creator)
-
-A simplified server creation utility for Node.js that handles routing, middleware, and error handling with minimal configuration.
-
-#### [`@el-zazo/main-utils`](https://github.com/el-zazo/npm-package--main-utils)
-
-A collection of JavaScript utility functions for common tasks.
-
-#### [`@el-zazo/path-utils`](https://github.com/el-zazo/npm-package--path-utils)
-
-A comprehensive Node.js utility library for file and directory operations with robust error handling.
-
-#### [`@el-zazo/console-messages`](https://github.com/el-zazo/npm-package--console-messages)
-
-A utility package for displaying formatted and colored messages in the console with comprehensive error handling.
-
-#### [`@el-zazo/progress-bar`](https://github.com/el-zazo/npm-package--progress-bar)
-
-A customizable progress bar for command-line applications with support for different styles, colors, and completion indicators.
-
-#### [`@el-zazo/dld-utils`](https://github.com/el-zazo/npm-package--dld-utils)
-
-A utility package for downloading files by URL and saving them to specific paths with progress tracking.
-
-#### [`@el-zazo/cmd-ligne-chat`](https://github.com/el-zazo/npm-package--cmd-ligne-chat)
-
-A library for creating interactive command-line chats between your application and users.
-
-#### [`@el-zazo/main-jsx-components`](https://github.com/el-zazo/npm-package--main-jsx-components)
-
-A collection of reusable React JSX components for building modern web applications.
+- [My GitHub profile](https://github.com/el-zazo)
+- [My website](https://elzazo.netlify.app)
 
 ---
 
@@ -174,6 +81,7 @@ A collection of reusable React JSX components for building modern web applicatio
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
+
 ---
 
 ## 📫 Connect With Me
@@ -185,6 +93,6 @@ A collection of reusable React JSX components for building modern web applicatio
 ---
 
 <div align="center">
-  <p>⭐ <strong>Thanks for visiting my profile!</strong> ⭐</p>
+  <p>⭐ <strong>Thanks for visiting my portfolio!</strong> ⭐</p>
   <p>Let's build something amazing together.</p>
 </div>
