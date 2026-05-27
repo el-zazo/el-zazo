@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-zazo&layout=compact&theme=tokyonight" alt="Top Languages" />
   <h1>Hi, I'm Elzazo 👋</h1>
   <p>
     <strong>Full-Stack Developer • Open Source Creator • API Automation Specialist</strong>
   </p>
+  <br />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,py,git,github,postman" alt="My Skills" />
 </div>
 
 ---
