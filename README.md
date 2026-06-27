@@ -112,7 +112,7 @@ I create scalable web applications, browser extensions, and utility packages wit
 [![GitHub](https://img.shields.io/badge/GitHub-el--zazo-181717?style=for-the-badge&logo=github)](https://github.com/el-zazo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zakaria%20Aznagui-0077B5?style=for-the-badge&logo=linkedin)](https://ma.linkedin.com/in/zakaria-aznagui)
 [![Website](https://img.shields.io/badge/Website-elzazo.netlify.app-00C7B7?style=for-the-badge&logo=netlify)](https://elzazo.netlify.app)
-[![Email](https://img.shields.io/badge/Email-zazoh930@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:zazoh930@gmail.com)
+[![Email](https://img.shields.io/badge/Email-zakariaaznagui0@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:zakariaaznagui0@gmail.com)
 
 </div>
 
